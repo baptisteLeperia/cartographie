@@ -1,0 +1,3235 @@
+map = {
+  "name": null,
+  "scale1m": 127.0189218278097,
+  "init": true,
+  "w": 7400.645384690082,
+  "h": 6406.1585406978775,
+  "displayBackground": true,
+  "displayGraveColor": true,
+  "legendWidth": 3830,
+  "elements": {
+    "graves": [
+      {
+        "category": "graves",
+        "number": "1",
+        "center": {
+          "x": 2551.220055845315,
+          "y": 4297.212375382741
+        },
+        "rotation": 2.2377930617454656,
+        "size": {
+          "w": 138.17258819736577,
+          "h": 265.94736299685894
+        },
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": 67.15741166589032,
+          "y": -51.62432545426054
+        },
+        "direction": 12,
+        "rotationStart": {
+          "x": 2411.945349405749,
+          "y": 4431.789434659413
+        },
+        "storedAngle": 2.2271447422958954,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "2",
+        "center": {
+          "x": 2371.5718535355745,
+          "y": 4166.272771989851
+        },
+        "rotation": 0.6591771234811723,
+        "size": {
+          "w": 148.7533533341312,
+          "h": 246.56095686637138
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 38.40192393931375,
+          "y": 50.99221857678458
+        },
+        "rotationStart": {
+          "x": 2242.5982646669218,
+          "y": 3987.7597579279427
+        },
+        "storedAngle": 0.6487761727293775,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "3",
+        "center": {
+          "x": 2265.387687742317,
+          "y": 3870.918540357877
+        },
+        "rotation": 2.161050688877846,
+        "size": {
+          "w": 356.59646877899564,
+          "h": 316.53423150536184
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -3.2063637869637205,
+          "y": -17.5148850836199
+        },
+        "rotationStart": {
+          "x": 2074.871726193538,
+          "y": 4006.396039980541
+        },
+        "storedAngle": 2.161050688877846,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "4ER",
+        "center": {
+          "x": 2067.3624686791286,
+          "y": 3575.4220906143164
+        },
+        "rotation": 2.2298546726991795,
+        "size": {
+          "w": 177.82649055893359,
+          "h": 304.8454123867433
+        },
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": 33.00439912167417,
+          "y": -47.714757588878456
+        },
+        "rotationStart": {
+          "x": 1852.046614695081,
+          "y": 3730.9031748551756
+        },
+        "storedAngle": 2.2211675317179695,
+        "direction": 12
+      },
+      {
+        "category": "graves",
+        "number": "5",
+        "center": {
+          "x": 1971.6051344067828,
+          "y": 3424.0281322082096
+        },
+        "rotation": 2.2298546726991795,
+        "size": {
+          "w": 149.1080250387268,
+          "h": 277.4531655557872
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -40.23966778542194,
+          "y": 11.028282206744734
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "6",
+        "center": {
+          "x": 1832.210415485836,
+          "y": 3222.8780078352406
+        },
+        "rotation": 2.2298546726991795,
+        "size": {
+          "w": 272.5750422899799,
+          "h": 277.4531655557872
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -49.816305119947174,
+          "y": -39.687296306815824
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "7",
+        "center": {
+          "x": 1603.9724374880234,
+          "y": 2972.2382637125215
+        },
+        "rotation": 2.2298546726991795,
+        "size": {
+          "w": 368.54383481295446,
+          "h": 331.2719556469184
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -14.444454378610544,
+          "y": -0.5627484958595232
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "8",
+        "center": {
+          "x": 1406.9029037421224,
+          "y": 2710.7654281700648
+        },
+        "rotation": 2.2298546726991795,
+        "size": {
+          "w": 205.2144796384767,
+          "h": 346.77969035210765
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "9",
+        "center": {
+          "x": 1285.063057546252,
+          "y": 2524.019537340721
+        },
+        "rotation": 2.2298546726991795,
+        "size": {
+          "w": 171.34756773726764,
+          "h": 297.8609786064236
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 10.741186481714067,
+          "y": -52.24442338608924
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "10",
+        "center": {
+          "x": 1209.686172237246,
+          "y": 2305.064832678852
+        },
+        "rotation": 2.1398506411170954,
+        "size": {
+          "w": 155.51978274300774,
+          "h": 292.40217852212356
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 5.047790586771043,
+          "y": -39.46101208956361
+        },
+        "rotationStart": {
+          "x": 915.3708732688422,
+          "y": 2462.825722145778
+        },
+        "storedAngle": 2.2298546726991795,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "11",
+        "center": {
+          "x": 1215.3800741510422,
+          "y": 2115.0656277542566
+        },
+        "rotation": 1.96199296434753,
+        "size": {
+          "w": 151.90084250947808,
+          "h": 274.109992191988
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 11.551965633289,
+          "y": -11.496744312032206
+        },
+        "rotationStart": {
+          "x": 972.0899925593585,
+          "y": 2259.447165832641
+        },
+        "storedAngle": 2.0135123437494373,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "12",
+        "center": {
+          "x": 1767.7635277199306,
+          "y": 1947.1552801963576
+        },
+        "rotation": 1.948665668171174,
+        "size": {
+          "w": 136.9181672917012,
+          "h": 271.8523788439112
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 59.373589318735185,
+          "y": -33.62212485404166
+        },
+        "rotationStart": {
+          "x": 1564.3996525788928,
+          "y": 2042.2939662632366
+        },
+        "storedAngle": 1.96199296434753,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "13",
+        "center": {
+          "x": 1815.698189408856,
+          "y": 2068.4116141423806
+        },
+        "rotation": 1.948665668171174,
+        "size": {
+          "w": 125.94358507143448,
+          "h": 271.8523788439112
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -0.29246725282973784,
+          "y": -4.4341916985968055
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "14",
+        "center": {
+          "x": 1872.1952205120247,
+          "y": 2205.357350960921
+        },
+        "rotation": 2.00924432019719,
+        "size": {
+          "w": 155.9883760582921,
+          "h": 282.9514228659542
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -26.09505338701001,
+          "y": -3.4314755967325254
+        },
+        "rotationStart": {
+          "x": 1645.4269658510586,
+          "y": 2280.5142672834045
+        },
+        "storedAngle": 1.948665668171174,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "15",
+        "center": {
+          "x": 1961.8724888808936,
+          "y": 2422.4597578952835
+        },
+        "rotation": 2.00924432019719,
+        "size": {
+          "w": 283.49892042111543,
+          "h": 282.9514228659542
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 47.91779953346577,
+          "y": -47.04352206150452
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "16",
+        "center": {
+          "x": 2120.4817105824077,
+          "y": 2705.2113785085025
+        },
+        "rotation": 2.097199446938691,
+        "size": {
+          "w": 227.749264341406,
+          "h": 282.9514228659542
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 71.30831102088155,
+          "y": -86.37817056565973
+        },
+        "rotationStart": {
+          "x": 1890.1294519329992,
+          "y": 2773.160331978174
+        },
+        "storedAngle": 2.00924432019719,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "17",
+        "center": {
+          "x": 2223.9727670040857,
+          "y": 2905.9489860286076
+        },
+        "rotation": 2.097199446938691,
+        "size": {
+          "w": 159.8354767684421,
+          "h": 282.9514228659542
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -13.76385886650587,
+          "y": -39.79952321927976
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "18",
+        "center": {
+          "x": 2378.7667251156136,
+          "y": 3183.2700020966245
+        },
+        "rotation": 2.127172228517422,
+        "size": {
+          "w": 304.51379969136934,
+          "h": 282.9514228659542
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 14.507135480907436,
+          "y": -35.38837429034811
+        },
+        "rotationStart": {
+          "x": 2118.6264753605074,
+          "y": 3235.0160176295203
+        },
+        "storedAngle": 2.097199446938691,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "19",
+        "center": {
+          "x": 2574.5287029439187,
+          "y": 3495.7229317236247
+        },
+        "rotation": 2.127172228517422,
+        "size": {
+          "w": 393.7265385974118,
+          "h": 282.9514228659542
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -23.028440043724913,
+          "y": -23.494714807848595
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "20",
+        "center": {
+          "x": 2856.1886308457947,
+          "y": 3338.8231178816327
+        },
+        "rotation": 2.127172228517422,
+        "size": {
+          "w": 161.65231055816486,
+          "h": 290.3178331941109
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -58.12606084738354,
+          "y": 11.435963121843088
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "21",
+        "center": {
+          "x": 2748.647640650266,
+          "y": 3198.539728540523
+        },
+        "rotation": 2.191623551254256,
+        "size": {
+          "w": 143.15901672971341,
+          "h": 290.3178331941109
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 12.886099550580184,
+          "y": -16.448202353475608
+        },
+        "rotationStart": {
+          "x": 2548.071235702988,
+          "y": 3298.21732198181
+        },
+        "storedAngle": 2.127172228517422,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "22",
+        "center": {
+          "x": 2652.720958000199,
+          "y": 3063.566401047847
+        },
+        "rotation": 2.127172228517422,
+        "size": {
+          "w": 138.97701068118914,
+          "h": 290.3178331941109
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 4.986126972446982,
+          "y": 9.241292015257386
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "23",
+        "center": {
+          "x": 2579.325505845187,
+          "y": 2945.550651671585
+        },
+        "rotation": 2.127172228517422,
+        "size": {
+          "w": 138.97701068118914,
+          "h": 290.3178331941109
+        },
+        "direction": 12,
+        "isHovered": false,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "24",
+        "center": {
+          "x": 2494.2482116533956,
+          "y": 2799.033177556647
+        },
+        "rotation": 2.1041253288560924,
+        "size": {
+          "w": 156.2443571997631,
+          "h": 290.3178331941109
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 21.060122339476948,
+          "y": -20.980831025965017
+        },
+        "rotationStart": {
+          "x": 2285.5427407011703,
+          "y": 2906.045125744526
+        },
+        "storedAngle": 2.127172228517422,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "25",
+        "center": {
+          "x": 2444.2863728668153,
+          "y": 2631.912613213904
+        },
+        "rotation": 2.1041253288560924,
+        "size": {
+          "w": 135.92566889820893,
+          "h": 290.3178331941109
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -7.362360042295222,
+          "y": 15.945268983732603
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "27",
+        "center": {
+          "x": 2277.7168261405686,
+          "y": 2354.061410992269
+        },
+        "rotation": 2.1041253288560924,
+        "size": {
+          "w": 135.92566889820893,
+          "h": 290.3178331941109
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 8.379548093831545,
+          "y": 1.4328348966373596
+        }
+      },
+      {
+        "category": "graves",
+        "number": "26",
+        "center": {
+          "x": 2375.18137932632,
+          "y": 2511.6232941556846
+        },
+        "rotation": 2.1041253288560924,
+        "size": {
+          "w": 135.92566889820893,
+          "h": 290.3178331941109
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 5.370232822097023,
+          "y": 17.196919833761967
+        }
+      },
+      {
+        "category": "graves",
+        "number": "28",
+        "center": {
+          "x": 2168.5417449945044,
+          "y": 2121.146931630122
+        },
+        "rotation": 2.0791149920197496,
+        "size": {
+          "w": 303.42187528065625,
+          "h": 290.3178331941109
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -9.678238085198245,
+          "y": -13.520976907765998
+        },
+        "isResizedBy": 0,
+        "rotationStart": {
+          "x": 1949.2793906216814,
+          "y": 2235.138971850991
+        },
+        "storedAngle": 2.1041253288560924
+      },
+      {
+        "category": "graves",
+        "number": "29ER",
+        "center": {
+          "x": 2043.8645478301994,
+          "y": 1858.0481858107569
+        },
+        "rotation": 1.9420740119616942,
+        "size": {
+          "w": 177.82649055893359,
+          "h": 304.8454123867433
+        },
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": 11.127024538187015,
+          "y": -24.216836739950395
+        },
+        "direction": 12,
+        "rotationStart": {
+          "x": 1804.240499864504,
+          "y": 1952.758785097492
+        },
+        "storedAngle": 1.963810762687305
+      },
+      {
+        "category": "graves",
+        "number": "30",
+        "center": {
+          "x": 2387.0667189436585,
+          "y": 1818.5782160042693
+        },
+        "rotation": 2.0858950981177595,
+        "size": {
+          "w": 177.82649055893359,
+          "h": 321.95285403048035
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -59.72037516912269,
+          "y": -9.398506654087441
+        },
+        "rotationStart": {
+          "x": 2191.551057305458,
+          "y": 1905.7629433996358
+        },
+        "storedAngle": 1.9420740119616942,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "31",
+        "center": {
+          "x": 2493.120968450698,
+          "y": 2011.432941091277
+        },
+        "rotation": 2.0858950981177595,
+        "size": {
+          "w": 177.82649055893359,
+          "h": 321.95285403048035
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 11.492129630885302,
+          "y": -3.7168752257834967
+        }
+      },
+      {
+        "category": "graves",
+        "number": "32",
+        "center": {
+          "x": 2587.883056587451,
+          "y": 2234.152358634718
+        },
+        "rotation": 2.0858950981177595,
+        "size": {
+          "w": 217.88437300369748,
+          "h": 273.74714006936654
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 7.34923308777752,
+          "y": -0.4660631956448924
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "33",
+        "center": {
+          "x": 2675.375916865523,
+          "y": 2390.749929070506
+        },
+        "rotation": 2.0858950981177595,
+        "size": {
+          "w": 143.51779423076965,
+          "h": 273.74714006936654
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 8.221998363334933,
+          "y": 55.02136722008481
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "35",
+        "center": {
+          "x": 2937.5059138900565,
+          "y": 2804.4087171482165
+        },
+        "rotation": 2.0858950981177595,
+        "size": {
+          "w": 290.6544137097372,
+          "h": 273.74714006936654
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -7.265776511521381,
+          "y": 16.49398162600255
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "34",
+        "center": {
+          "x": 2803.425210359597,
+          "y": 2576.6980825965265
+        },
+        "rotation": 2.0858950981177595,
+        "size": {
+          "w": 143.51779423076965,
+          "h": 273.74714006936654
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -3.345637693030312,
+          "y": 3.060086002551543
+        }
+      },
+      {
+        "category": "graves",
+        "number": "36ER",
+        "center": {
+          "x": 3052.2984196307398,
+          "y": 3010.6694784975775
+        },
+        "rotation": 2.086428704304553,
+        "size": {
+          "w": 177.82649055893359,
+          "h": 304.8454123867433
+        },
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": 51.54840601024671,
+          "y": -4.986616685469926
+        },
+        "rotationStart": {
+          "x": 2823.4657762367465,
+          "y": 3134.110585632277
+        },
+        "storedAngle": 2.0918264404458067,
+        "direction": 12
+      },
+      {
+        "category": "graves",
+        "number": "37",
+        "center": {
+          "x": 3289.953821873262,
+          "y": 2788.59421991624
+        },
+        "rotation": 2.0918264404458067,
+        "size": {
+          "w": 228.90455985948262,
+          "h": 331.04470060824053
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 5.165852112561879,
+          "y": 2.1675510409004346
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "38",
+        "center": {
+          "x": 3261.093270463077,
+          "y": 2482.835415343218
+        },
+        "rotation": 2.0918264404458067,
+        "size": {
+          "w": 295.06690028831196,
+          "h": 273.6477276823058
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -13.153079904755941,
+          "y": 21.990700596717033
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "39",
+        "center": {
+          "x": 3093.5467793653993,
+          "y": 2195.9169971213582
+        },
+        "rotation": 2.0918264404458067,
+        "size": {
+          "w": 295.06690028831196,
+          "h": 273.6477276823058
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -47.917628949816844,
+          "y": 34.88222564919715
+        },
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "40",
+        "center": {
+          "x": 2952.2551602781964,
+          "y": 1962.750596166991
+        },
+        "rotation": 2.0918264404458067,
+        "size": {
+          "w": 157.10277210545388,
+          "h": 291.6744211843612
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -40.5648724043358,
+          "y": -26.25716379694859
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "41",
+        "center": {
+          "x": 3144.481037534143,
+          "y": 1455.9371566670804
+        },
+        "rotation": 2.0918264404458067,
+        "size": {
+          "w": 369.9492501763262,
+          "h": 354.8726387801504
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -22.42326134735049,
+          "y": -22.195552416568262
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "44",
+        "center": {
+          "x": 3512.495147760513,
+          "y": 2153.495424082826
+        },
+        "rotation": 2.1207434964363063,
+        "size": {
+          "w": 197.29779707686936,
+          "h": 288.28622595350146
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 15.892006246604979,
+          "y": 11.511808107304432
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "45",
+        "center": {
+          "x": 3608.0362969972434,
+          "y": 2317.8414521231175
+        },
+        "rotation": 2.1004938772292867,
+        "size": {
+          "w": 150.69598718755157,
+          "h": 280.4872217349845
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 18.193817451385712,
+          "y": -57.8423960020109
+        },
+        "isResizedBy": 0,
+        "rotationStart": {
+          "x": 3426.8681806056425,
+          "y": 2432.923601899253
+        },
+        "storedAngle": 2.1207434964363063
+      },
+      {
+        "category": "graves",
+        "number": "46",
+        "center": {
+          "x": 3840.590912092941,
+          "y": 2072.111966282502
+        },
+        "rotation": 2.125790503934535,
+        "size": {
+          "w": 162.4130653563039,
+          "h": 280.4872217349845
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -33.06534658295095,
+          "y": -31.68305141553492
+        },
+        "rotationStart": {
+          "x": 3639.132267518021,
+          "y": 2187.2696586186353
+        },
+        "storedAngle": 2.1004938772292867,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "50",
+        "center": {
+          "x": 3619.4537777979895,
+          "y": 1074.780911250708
+        },
+        "rotation": 1.9863826154757125,
+        "size": {
+          "w": 108.56345177198921,
+          "h": 170.35095978697683
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 12.39607128442276,
+          "y": -35.55715458439522
+        },
+        "isResizedBy": 0,
+        "rotationStart": {
+          "x": 3450.512937271741,
+          "y": 1209.5154972802345
+        },
+        "storedAngle": 2.125790503934535,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "43",
+        "center": {
+          "x": 3433.3395769247268,
+          "y": 1978.4071321238712
+        },
+        "rotation": 2.1207434964363063,
+        "size": {
+          "w": 142.638178095544,
+          "h": 298.0121417174579
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 38.37641693142359,
+          "y": -2.880421098659781
+        },
+        "rotationStart": {
+          "x": 3240.043984259541,
+          "y": 2122.8749356227454
+        },
+        "storedAngle": 2.0918264404458067,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "47EL",
+        "center": {
+          "x": 3740.843104930098,
+          "y": 1912.0154622233804
+        },
+        "rotation": 2.125790503934535,
+        "size": {
+          "w": 168.9677006711021,
+          "h": 278.53334134925046
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 29.74632817506972,
+          "y": -33.55214882121004
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "42",
+        "center": {
+          "x": 3341.745540682756,
+          "y": 1818.8415368404437
+        },
+        "rotation": 2.0918264404458067,
+        "size": {
+          "w": 192.865277622238,
+          "h": 300.94075546062106
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 50.20958020679154,
+          "y": -77.52622319806096
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "51",
+        "center": {
+          "x": 3730.8113134077603,
+          "y": 1251.0394245215584
+        },
+        "rotation": 2.1532623206349175,
+        "size": {
+          "w": 278.20098193662136,
+          "h": 271.36982552586534
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -20.73825311698738,
+          "y": -11.39403576345103
+        },
+        "rotationStart": {
+          "x": 3587.6111513282467,
+          "y": 1287.3017180215134
+        },
+        "storedAngle": 1.9863826154757125,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "52",
+        "center": {
+          "x": 3875.276673316146,
+          "y": 1466.47248720705
+        },
+        "rotation": 2.1532623206349175,
+        "size": {
+          "w": 160.1494998736622,
+          "h": 302.4792268270938
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 2.806241325598421,
+          "y": 6.578406371633491
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "53",
+        "center": {
+          "x": 3958.8746950739837,
+          "y": 1744.3403152542624
+        },
+        "rotation": 2.1532623206349175,
+        "size": {
+          "w": 149.64648648885998,
+          "h": 264.1761653307147
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -5.59146967514107,
+          "y": 13.341714996298151
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "54ER",
+        "center": {
+          "x": 4069.333294767953,
+          "y": 1902.5541953355714
+        },
+        "rotation": 2.1532623206349175,
+        "size": {
+          "w": 164.17619773359013,
+          "h": 251.6716868676179
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -12.279411221824375,
+          "y": -29.431707855917466
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "55",
+        "center": {
+          "x": 4277.48637620355,
+          "y": 1549.3681217616477
+        },
+        "rotation": 2.29505031845238,
+        "size": {
+          "w": 286.3280635261664,
+          "h": 281.71350184806244
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 5.451180749719242,
+          "y": -12.804859942858002
+        },
+        "rotationStart": {
+          "x": 4122.121327880301,
+          "y": 1702.2909806003677
+        },
+        "storedAngle": 2.1532623206349175,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "56",
+        "center": {
+          "x": 5650.736679190763,
+          "y": 2307.4436002902034
+        },
+        "rotation": 2.0787721950795026,
+        "size": {
+          "w": 333.0298293147581,
+          "h": 327.94447241042946
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 37.39362943158085,
+          "y": -34.19821292715278
+        },
+        "rotationStart": {
+          "x": 5575.75976832809,
+          "y": 2355.573693857206
+        },
+        "storedAngle": 2.29505031845238,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "57",
+        "center": {
+          "x": 5021.492970009581,
+          "y": 1984.4288547396013
+        },
+        "rotation": 2.287740666275083,
+        "size": {
+          "w": 146.7747316953911,
+          "h": 238.5862828914756
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -17.46084789040833,
+          "y": -20.026481604884793
+        },
+        "rotationStart": {
+          "x": 4789.119601977477,
+          "y": 2152.1613761635385
+        },
+        "storedAngle": 2.0787721950795026,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "58",
+        "center": {
+          "x": 4901.3254199139365,
+          "y": 1842.2141056499584
+        },
+        "rotation": 2.287740666275083,
+        "size": {
+          "w": 134.98127434743503,
+          "h": 262.5445144978083
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 6.7927106649085545,
+          "y": -3.2185685778767947
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "61",
+        "center": {
+          "x": 4358.929868986361,
+          "y": 2283.5402956817275
+        },
+        "rotation": 2.287740666275083,
+        "size": {
+          "w": 166.7038876611806,
+          "h": 293.17757311588804
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -29.391462682594465,
+          "y": 19.803942084460232
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "60",
+        "center": {
+          "x": 4740.38580237005,
+          "y": 2127.6985364439615
+        },
+        "rotation": 2.287740666275083,
+        "size": {
+          "w": 134.98127434743503,
+          "h": 277.07349117087534
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 1.4963829405678553,
+          "y": -12.937182132328417
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "59",
+        "center": {
+          "x": 4648.436843982643,
+          "y": 2011.1261493211207
+        },
+        "rotation": 2.287740666275083,
+        "size": {
+          "w": 145.3822010355126,
+          "h": 277.1301405048369
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 10.851219466294424,
+          "y": -2.341720575003592
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "62",
+        "center": {
+          "x": 4125.3452618813035,
+          "y": 2520.4993198096354
+        },
+        "rotation": 2.287740666275083,
+        "size": {
+          "w": 264.4091263865281,
+          "h": 293.17757311588804
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 37.591361056306596,
+          "y": -87.1291134088674
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "63",
+        "center": {
+          "x": 4328.163465530651,
+          "y": 2894.3772320324615
+        },
+        "rotation": 3.6241324533511134,
+        "size": {
+          "w": 310.49178705774614,
+          "h": 289.286332925349
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -58.469579108116704,
+          "y": -66.46379898471832
+        },
+        "rotationStart": {
+          "x": 4427.872830305737,
+          "y": 3118.5808938367686
+        },
+        "storedAngle": 3.634542239912391,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "64",
+        "center": {
+          "x": 3922.8395868025355,
+          "y": 2794.128758472552
+        },
+        "rotation": 2.284760511782335,
+        "size": {
+          "w": 161.90155839828924,
+          "h": 289.286332925349
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "rotationStart": {
+          "x": 3694.4068382899845,
+          "y": 2908.416300037088
+        },
+        "storedAngle": 2.3040146494961213,
+        "moveDisplacement": {
+          "x": 43.04812150717862,
+          "y": -69.99759675941323
+        },
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "65",
+        "center": {
+          "x": 3659.399229132033,
+          "y": 3036.3689452022677
+        },
+        "rotation": 2.2010439754057978,
+        "size": {
+          "w": 192.19821469856572,
+          "h": 330.8922769267859
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 73.45995137283535,
+          "y": -46.74043005243084
+        },
+        "rotationStart": {
+          "x": 3491.838555109569,
+          "y": 3181.8834823306483
+        },
+        "storedAngle": 2.284760511782335,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "66",
+        "center": {
+          "x": 3795.82121437973,
+          "y": 3223.722231981138
+        },
+        "rotation": 2.1990229558930103,
+        "size": {
+          "w": 269.269198337253,
+          "h": 330.8922769267859
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 60.316349921659366,
+          "y": 78.89502705511359
+        },
+        "rotationStart": {
+          "x": 3578.7741099744976,
+          "y": 3333.8096947159597
+        },
+        "storedAngle": 2.183411810305303,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "48EL",
+        "center": {
+          "x": 3644.9248241511655,
+          "y": 1749.5924105470997
+        },
+        "rotation": 2.125790503934535,
+        "size": {
+          "w": 168.8271652463682,
+          "h": 278.3016769466834
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "isResizedBy": 0,
+        "moveDisplacement": {
+          "x": -45.02382383982422,
+          "y": 30.212544501762068
+        }
+      },
+      {
+        "category": "graves",
+        "number": "49EL",
+        "center": {
+          "x": 3548.7745855357634,
+          "y": 1586.1992837844186
+        },
+        "rotation": 2.125790503934535,
+        "size": {
+          "w": 168.44600397092051,
+          "h": 277.6733549465513
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "isResizedBy": 0,
+        "moveDisplacement": {
+          "x": -62.41551395468059,
+          "y": 26.524252198520117
+        }
+      },
+      {
+        "category": "graves",
+        "number": "1",
+        "center": {
+          "x": 3333.869263114725,
+          "y": 4848.122432359626
+        },
+        "rotation": 5.19369990892124,
+        "size": {
+          "w": 133.11972031490683,
+          "h": 251.330671734847
+        },
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -9.687620637751479,
+          "y": -29.256454811747062
+        },
+        "direction": 12,
+        "rotationStart": {
+          "x": 3534.619288448244,
+          "y": 4744.656148031565
+        },
+        "storedAngle": 5.227955731599902,
+        "isResizedBy": 0,
+        "color": 2
+      },
+      {
+        "category": "graves",
+        "number": "2",
+        "center": {
+          "x": 3367.784573680245,
+          "y": 5138.2202750675215
+        },
+        "rotation": 2.4082228475930454,
+        "size": {
+          "w": 133.11972031490683,
+          "h": 251.330671734847
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 19.852215011072076,
+          "y": -20.647498411355627
+        },
+        "rotationStart": {
+          "x": 3248.7549272240417,
+          "y": 5274.088612951897
+        },
+        "storedAngle": 2.376859715695984
+      },
+      {
+        "category": "graves",
+        "number": "5",
+        "center": {
+          "x": 3873.803958019007,
+          "y": 5530.329870586306
+        },
+        "rotation": 2.483666561741734,
+        "size": {
+          "w": 177.17844694072215,
+          "h": 279.4716064174446
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 11.652246381652276,
+          "y": 0.05958199795077235
+        },
+        "rotationStart": {
+          "x": 3744.6420844496984,
+          "y": 5664.964372176825
+        },
+        "storedAngle": 2.4263921530459416,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "6",
+        "center": {
+          "x": 4041.9848751090904,
+          "y": 5640.738664821536
+        },
+        "rotation": 2.5387903133748995,
+        "size": {
+          "w": 163.3724078247879,
+          "h": 279.4716064174446
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 46.3346249602464,
+          "y": -51.912671024877454
+        },
+        "rotationStart": {
+          "x": 3920.6334088768417,
+          "y": 5805.465733390762
+        },
+        "storedAngle": 2.483666561741734,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "7",
+        "center": {
+          "x": 4263.27880491464,
+          "y": 5791.196107572228
+        },
+        "rotation": 2.5387903133748995,
+        "size": {
+          "w": 163.3724078247879,
+          "h": 279.4716064174446
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -6.4202695386934465,
+          "y": -2.601692707341499
+        }
+      },
+      {
+        "category": "graves",
+        "number": "8",
+        "center": {
+          "x": 4446.529954037286,
+          "y": 5914.5141177661835
+        },
+        "rotation": 2.5387903133748995,
+        "size": {
+          "w": 163.3724078247879,
+          "h": 286.7619925214086
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -0.9831022901935285,
+          "y": 9.78520822758037
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "9EL",
+        "center": {
+          "x": 4383.04710504909,
+          "y": 5489.161249814872
+        },
+        "rotation": 2.5387903133748995,
+        "size": {
+          "w": 163.3724078247879,
+          "h": 286.7619925214086
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -35.16957190746234,
+          "y": 18.80510743279865
+        }
+      },
+      {
+        "category": "graves",
+        "number": "11",
+        "center": {
+          "x": 3900.9891584805755,
+          "y": 5023.580534113461
+        },
+        "rotation": 2.097439160688201,
+        "size": {
+          "w": 156.4202694305273,
+          "h": 286.7619925214086
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -1.497336971115601,
+          "y": 6.563241622453461
+        },
+        "rotationStart": {
+          "x": 3741.07038980866,
+          "y": 5232.238766681716
+        },
+        "storedAngle": 2.5387903133748995,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "12",
+        "center": {
+          "x": 4171.27206264237,
+          "y": 4867.813120419654
+        },
+        "rotation": 2.069133895141701,
+        "size": {
+          "w": 155.3700182788403,
+          "h": 295.10254681748586
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 2.048314603257495,
+          "y": -33.579869447621604
+        },
+        "rotationStart": {
+          "x": 3947.133503395509,
+          "y": 4995.26618605684
+        },
+        "storedAngle": 2.097439160688201,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "14",
+        "center": {
+          "x": 5106.335812009955,
+          "y": 5269.645258933683
+        },
+        "rotation": 1.9173550592800466,
+        "size": {
+          "w": 181.24265561023873,
+          "h": 321.1382576451507
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 3.1117125673936243,
+          "y": -15.749244294876917
+        },
+        "rotationStart": {
+          "x": 4853.048006460652,
+          "y": 5337.178315267611
+        },
+        "storedAngle": 1.905684451328522,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "15",
+        "center": {
+          "x": 5174.566338752224,
+          "y": 5418.858271898795
+        },
+        "rotation": 1.5286735877844333,
+        "size": {
+          "w": 105.12369164631178,
+          "h": 217.1431788924557
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -5.977468074898752,
+          "y": 3.09049371011497
+        },
+        "isResizedBy": 0,
+        "rotationStart": {
+          "x": 4964.474727140947,
+          "y": 5423.4195442872915
+        },
+        "storedAngle": 1.5183431551271291
+      },
+      {
+        "category": "graves",
+        "number": "16",
+        "center": {
+          "x": 5484.484863832525,
+          "y": 5449.645918258413
+        },
+        "rotation": 1.5724879035789328,
+        "size": {
+          "w": 259.4938105543384,
+          "h": 292.70878426899174
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -8.335041286997694,
+          "y": -7.323355942748094
+        },
+        "isResizedBy": 0,
+        "rotationStart": {
+          "x": 5243.804725558674,
+          "y": 5426.472331155244
+        },
+        "storedAngle": 1.5286735877844333
+      },
+      {
+        "category": "graves",
+        "number": "17",
+        "center": {
+          "x": 5406.40240409094,
+          "y": 5166.147917980643
+        },
+        "rotation": 1.9316776268586948,
+        "size": {
+          "w": 101.23812710972157,
+          "h": 233.23746932537335
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -17.057415319531174,
+          "y": 3.0491205490543507
+        },
+        "rotationStart": {
+          "x": 5228.5407912189075,
+          "y": 5125.772824661844
+        },
+        "storedAngle": 1.5724879035789328,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "18",
+        "center": {
+          "x": 5369.629632202429,
+          "y": 5071.865028619206
+        },
+        "rotation": 1.9316776268586948,
+        "size": {
+          "w": 98.11738645742076,
+          "h": 233.86711769274746
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -1.7137447285158487,
+          "y": 0.632502676952754
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "19",
+        "center": {
+          "x": 5755.741537053928,
+          "y": 4900.709943725497
+        },
+        "rotation": 1.9316776268586948,
+        "size": {
+          "w": 149.59333303630825,
+          "h": 265.88805109704947
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -1.467369607393266,
+          "y": -1.948467655017339
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "20",
+        "center": {
+          "x": 5820.2328106421555,
+          "y": 5093.769945902371
+        },
+        "rotation": 1.9201238829227665,
+        "size": {
+          "w": 194.20546510557466,
+          "h": 316.3452154289008
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -24.57519627228794,
+          "y": 3.9874997555398295
+        },
+        "rotationStart": {
+          "x": 5620.442305392413,
+          "y": 5152.057178262197
+        },
+        "storedAngle": 1.9316776268586948,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "21",
+        "center": {
+          "x": 5893.766750349313,
+          "y": 5263.999519371233
+        },
+        "rotation": 1.9201238829227665,
+        "size": {
+          "w": 172.810014431208,
+          "h": 299.1586756288126
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 44.10428404679169,
+          "y": -83.08896378234112
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "22",
+        "center": {
+          "x": 5946.835138798277,
+          "y": 5438.42530463329
+        },
+        "rotation": 1.9036995588687358,
+        "size": {
+          "w": 163.10562323596656,
+          "h": 283.96073911703763
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -54.76386032152277,
+          "y": 3.7026756346749607
+        },
+        "isResizedBy": 0,
+        "rotationStart": {
+          "x": 5737.041803821184,
+          "y": 5508.922309816924
+        },
+        "storedAngle": 1.9201238829227665
+      },
+      {
+        "category": "graves",
+        "number": "23",
+        "center": {
+          "x": 6225.952889033492,
+          "y": 5095.822455113836
+        },
+        "rotation": 1.9116980122930312,
+        "size": {
+          "w": 146.92154799136603,
+          "h": 283.96073911703763
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -0.6743087585018657,
+          "y": -28.299426649799898
+        },
+        "rotationStart": {
+          "x": 6011.315623988864,
+          "y": 5189.046602479658
+        },
+        "storedAngle": 1.9247545449402386,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "24",
+        "center": {
+          "x": 6187.825889313656,
+          "y": 4933.613971467537
+        },
+        "rotation": 1.9116980122930312,
+        "size": {
+          "w": 183.80500664618063,
+          "h": 307.45552174635407
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -4.08331861215629,
+          "y": 21.38302484162432
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "25",
+        "center": {
+          "x": 6118.098868446309,
+          "y": 4728.51512602967
+        },
+        "rotation": 1.9116980122930312,
+        "size": {
+          "w": 165.78777194274204,
+          "h": 303.1876064144782
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -91.30340344143406,
+          "y": 35.01639187229375
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "26",
+        "center": {
+          "x": 6511.123917935158,
+          "y": 4417.7754429646
+        },
+        "rotation": 1.7067583813652905,
+        "size": {
+          "w": 145.76315843156095,
+          "h": 281.96916098482245
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 101.7040374723274,
+          "y": 7.293559510098021
+        },
+        "rotationStart": {
+          "x": 6240.539637945428,
+          "y": 4429.824868392313
+        },
+        "storedAngle": 1.714213851734931,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "27",
+        "center": {
+          "x": 6540.190973486537,
+          "y": 4596.468528104592
+        },
+        "rotation": 1.7067583813652905,
+        "size": {
+          "w": 172.13127121860413,
+          "h": 281.96916098482245
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -2.447364933436802,
+          "y": -30.780491036437525
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "28",
+        "center": {
+          "x": 6566.955218784967,
+          "y": 4814.940604337273
+        },
+        "rotation": 1.7067583813652905,
+        "size": {
+          "w": 168.3796416645078,
+          "h": 281.96916098482245
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -14.516196901135118,
+          "y": -6.549067639164605
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "30",
+        "center": {
+          "x": 6563.773848748766,
+          "y": 5337.366868291515
+        },
+        "rotation": 1.7131147203186092,
+        "size": {
+          "w": 334.4628366506509,
+          "h": 340.59489257887174
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 24.19944530734392,
+          "y": -32.123679046006146
+        },
+        "rotationStart": {
+          "x": 6296.189398559159,
+          "y": 5297.033637956306
+        },
+        "storedAngle": 1.6825929102090043,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "2",
+        "center": {
+          "x": 3155.780521446589,
+          "y": 5831.644826707298
+        },
+        "rotation": 0.005342580086271864,
+        "size": {
+          "w": 154.4116908364073,
+          "h": 155.13910737210117
+        },
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -35.41929262858412,
+          "y": 18.63624456073194
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "3",
+        "center": {
+          "x": 3157.5097188257564,
+          "y": 5994.4027490200015
+        },
+        "rotation": 0.005342580086271864,
+        "size": {
+          "w": 146.55998414174297,
+          "h": 144.69934444415787
+        },
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -8.888569317055044,
+          "y": 45.228926460469665
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "1",
+        "center": {
+          "x": 3155.8507871642473,
+          "y": 5656.011677013261
+        },
+        "rotation": 0.005342580086271864,
+        "size": {
+          "w": 157.24584908174032,
+          "h": 157.98661702600464
+        },
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -21.246198439582713,
+          "y": -21.80427358043289
+        },
+        "rotationStart": {
+          "x": 3168.829810293042,
+          "y": 5466.759827953598
+        },
+        "storedAngle": 0.012809071178744302,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "10EL",
+        "center": {
+          "x": 4222.711185764931,
+          "y": 5382.799211843277
+        },
+        "rotation": 2.5387903133748995,
+        "size": {
+          "w": 163.3724078247879,
+          "h": 286.7619925214086
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 19.143585461345538,
+          "y": 56.68724897199718
+        }
+      },
+      {
+        "category": "graves",
+        "number": "31 (futur ossuaire)",
+        "center": {
+          "x": 6745.8516693328165,
+          "y": 5738.051524537526
+        },
+        "rotation": 4.529838186390512,
+        "size": {
+          "w": 195.21312184170202,
+          "h": 306.603344605129
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 55.48770303442598,
+          "y": -5.770256655931007
+        },
+        "rotationStart": {
+          "x": 6447.238748796431,
+          "y": 5611.057287133794
+        },
+        "storedAngle": 1.7131147203186092,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "29",
+        "center": {
+          "x": 6594.066631191403,
+          "y": 5029.98627830038
+        },
+        "rotation": 1.6825929102090043,
+        "size": {
+          "w": 160.92925910913488,
+          "h": 281.96916098482245
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 17.64093811309249,
+          "y": -38.48584284952631
+        },
+        "rotationStart": {
+          "x": 6376.35155372894,
+          "y": 5061.847149648272
+        },
+        "storedAngle": 1.7067583813652905,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "13EL",
+        "center": {
+          "x": 4267.267623929001,
+          "y": 5055.509282814363
+        },
+        "rotation": 2.069133895141701,
+        "size": {
+          "w": 155.3700182788403,
+          "h": 295.10254681748586
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -0.7085739061722052,
+          "y": -8.426406886668701
+        }
+      },
+      {
+        "category": "graves",
+        "number": "4",
+        "center": {
+          "x": 3713.2172327403478,
+          "y": 5411.478182985257
+        },
+        "rotation": 2.4554370091977726,
+        "size": {
+          "w": 157.68055082867664,
+          "h": 265.0710390324749
+        },
+        "direction": 12,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 43.603439608146346,
+          "y": -31.754809248440324
+        },
+        "rotationStart": {
+          "x": 3632.824392134109,
+          "y": 5475.84662299959
+        },
+        "storedAngle": 2.4263921530459416,
+        "isResizedBy": 0
+      },
+      {
+        "category": "graves",
+        "number": "3",
+        "center": {
+          "x": 3522.242728675326,
+          "y": 5279.156104501798
+        },
+        "rotation": 2.4263921530459416,
+        "size": {
+          "w": 117.12345543066664,
+          "h": 246.21951607290805
+        },
+        "direction": 12,
+        "color": 2,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -1.7454240270058108,
+          "y": 22.967970079841507
+        },
+        "rotationStart": {
+          "x": 3477.7381145311833,
+          "y": 5339.720736702351
+        },
+        "storedAngle": 2.4082228475930454,
+        "isResizedBy": 0
+      }
+    ],
+    "rectangles": [
+      {
+        "category": "rectangles",
+        "center": {
+          "x": 3913.9406570722367,
+          "y": 3656.8342631138166
+        },
+        "size": {
+          "w": 7400.645384690082,
+          "h": 6406.1585406978775
+        },
+        "rotation": 0,
+        "thicknessLine": 4,
+        "info": "frame",
+        "isHovered": false,
+        "isSelected": false,
+        "isResizedBy": 0
+      },
+      {
+        "category": "rectangles",
+        "nature": 1,
+        "number": "003",
+        "center": {
+          "x": 3170.2781056319086,
+          "y": 5878.521505912171
+        },
+        "size": {
+          "w": 346.66666666666697,
+          "h": 743.333333333333
+        },
+        "rotation": 0,
+        "thicknessLine": 2,
+        "isSelected": false,
+        "isHovered": false,
+        "isResizedBy": 0
+      }
+    ],
+    "polygons": [
+      {
+        "category": "polygons",
+        "pointList": [
+          {
+            "x": 459.8049169967617,
+            "y": 2029.7432606858733
+          },
+          {
+            "x": 3691.3889830753797,
+            "y": 790.3775034755022
+          },
+          {
+            "x": 6595.955944340335,
+            "y": 2117.74269814664
+          },
+          {
+            "x": 6681.34238177804,
+            "y": 2391.4920293150635
+          },
+          {
+            "x": 6769.240679154465,
+            "y": 2678.1169120642744
+          },
+          {
+            "x": 7120.028326659257,
+            "y": 3655.674735979735
+          },
+          {
+            "x": 7159.211308514877,
+            "y": 4272.806700205754
+          },
+          {
+            "x": 7149.415563050971,
+            "y": 5105.4450646376845
+          },
+          {
+            "x": 7007.3772538243475,
+            "y": 5991.960029121092
+          },
+          {
+            "x": 4886.598360888903,
+            "y": 5600.130210564888
+          },
+          {
+            "x": 4730.582432345414,
+            "y": 6493.387623071452
+          },
+          {
+            "x": 2792.2470442486583,
+            "y": 4966.346877144211
+          },
+          {
+            "x": 2530.721576819734,
+            "y": 4635.249282370241
+          }
+        ],
+        "thicknessLine": 4,
+        "isSelected": false,
+        "isHovered": false
+      },
+      {
+        "category": "polygons",
+        "pointList": [
+          {
+            "x": 2800.997994082052,
+            "y": 4877.378887171373
+          },
+          {
+            "x": 3358.404574438852,
+            "y": 4579.395300967375
+          },
+          {
+            "x": 3587.7044806382205,
+            "y": 5020.797620401161
+          },
+          {
+            "x": 4293.940657072237,
+            "y": 4676.834263113817
+          },
+          {
+            "x": 4498.940657072237,
+            "y": 5061.834263113817
+          },
+          {
+            "x": 5565.416171607778,
+            "y": 4562.197808002423
+          },
+          {
+            "x": 5565.416171607778,
+            "y": 4516.337826762549
+          },
+          {
+            "x": 6195.990913656042,
+            "y": 4277.483757804873
+          },
+          {
+            "x": 6161.595927726137,
+            "y": 4166.655469808512
+          },
+          {
+            "x": 6656.501558606442,
+            "y": 4006.1455354689533
+          },
+          {
+            "x": 7056.355981143871,
+            "y": 4194.440736494513
+          },
+          {
+            "x": 7066.151726607778,
+            "y": 5046.670591854254
+          },
+          {
+            "x": 6943.704908308965,
+            "y": 5898.900447213995
+          },
+          {
+            "x": 4736.41639890101,
+            "y": 5472.44347584216
+          },
+          {
+            "x": 4568.689860427627,
+            "y": 6283.364827069998
+          }
+        ],
+        "thicknessLine": 2,
+        "isSelected": false,
+        "isHovered": false,
+        "number": "002"
+      },
+      {
+        "category": "polygons",
+        "pointList": [
+          {
+            "x": 4333.940657072237,
+            "y": 4646.834263113817
+          },
+          {
+            "x": 4514.9694636566,
+            "y": 5010.393933895711
+          },
+          {
+            "x": 4798.755471887052,
+            "y": 4880.681999739331
+          },
+          {
+            "x": 4617.027076825324,
+            "y": 4487.595579986245
+          }
+        ],
+        "thicknessLine": 2,
+        "nature": 1,
+        "isSelected": false,
+        "isHovered": false,
+        "number": "003"
+      },
+      {
+        "category": "polygons",
+        "pointList": [
+          {
+            "x": 3681.197698157595,
+            "y": 942.7330683316255
+          },
+          {
+            "x": 6566.823405719244,
+            "y": 2211.6207941737453
+          },
+          {
+            "x": 5591.092499295821,
+            "y": 2804.4976453861846
+          },
+          {
+            "x": 5225.740343751624,
+            "y": 2174.4292573818216
+          },
+          {
+            "x": 4530.039831996806,
+            "y": 2533.2182005509726
+          },
+          {
+            "x": 4709.43430358138,
+            "y": 2907.321305928563
+          },
+          {
+            "x": 2967.9952867359875,
+            "y": 3808.6691387681376
+          },
+          {
+            "x": 3230.523781737805,
+            "y": 4289.971379604804
+          },
+          {
+            "x": 2615.769555941882,
+            "y": 4648.7603227739555
+          },
+          {
+            "x": 607.4265691779783,
+            "y": 2121.923558381458
+          }
+        ],
+        "thicknessLine": 2,
+        "isSelected": false,
+        "isHovered": false,
+        "number": "001"
+      }
+    ],
+    "informationElements": [
+      {
+        "category": "informationElements",
+        "type": "arrow",
+        "center": {
+          "x": 2662.690545553269,
+          "y": 1642.2395770724575
+        },
+        "rotation": -0.3171543504724581,
+        "size": {
+          "w": 194.29844349056748,
+          "h": 64.50855061830521
+        },
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -9.539958962354376,
+          "y": 0.1987491450493053
+        },
+        "rotationStart": {
+          "x": 2672.4164259994736,
+          "y": 1557.632367103266
+        },
+        "storedAngle": 0,
+        "isResizedBy": 0
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "Croix",
+        "center": {
+          "x": 2471.1011199841555,
+          "y": 1593.9720817585408
+        },
+        "size": {
+          "w": 173.2735939280844,
+          "h": 76.07486876999691
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false,
+        "isResizedBy": 0,
+        "moveDisplacement": {
+          "x": -10.873528980633182,
+          "y": -9.034872952804562
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "arrow",
+        "center": {
+          "x": 2508.070307390997,
+          "y": 4877.0010243167135
+        },
+        "size": {
+          "w": 487.8303766522258,
+          "h": 56.02810616333704
+        },
+        "rotation": 0.5296431988211667,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -28.166138825890812,
+          "y": 22.460218883400557
+        },
+        "rotationStart": {
+          "x": 2569.6283214489486,
+          "y": 4996.456275169574
+        },
+        "storedAngle": -2.5834477858826883
+      },
+      {
+        "category": "informationElements",
+        "type": "arrow",
+        "center": {
+          "x": 2806.208490331109,
+          "y": 5101.761014785497
+        },
+        "size": {
+          "w": 446.65133248202574,
+          "h": 46.3428829120287
+        },
+        "rotation": 1.0061594831041045,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -8.636383588860554,
+          "y": -11.386728634733117
+        },
+        "isResizedBy": 0,
+        "rotationStart": {
+          "x": 2719.891759993223,
+          "y": 5034.022134805642
+        },
+        "storedAngle": 0.5296431988211667
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "CARRE 1",
+        "center": {
+          "x": 3316.19632477747,
+          "y": 3376.3751214257536
+        },
+        "size": {
+          "w": 518.7068481445312,
+          "h": 127.0189218278097
+        },
+        "rotation": 0,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -42.31504902892357,
+          "y": -17.27114260487815
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "CARRE 2",
+        "center": {
+          "x": 6291.78342879004,
+          "y": 5629.399147500109
+        },
+        "size": {
+          "w": 518.7068481445312,
+          "h": 127.0189218278097
+        },
+        "rotation": 0,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 24.004925390308927,
+          "y": 31.193454086096608
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "CARRE 2",
+        "center": {
+          "x": 4619.9265014345065,
+          "y": 5183.3023067881595
+        },
+        "size": {
+          "w": 518.7068481445312,
+          "h": 127.0189218278097
+        },
+        "rotation": 0,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 44.003009792547346,
+          "y": 19.190991390943054
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "CARRE 1",
+        "center": {
+          "x": 1644.8031734668284,
+          "y": 2506.386975684581
+        },
+        "size": {
+          "w": 518.7068481445312,
+          "h": 127.0189218278097
+        },
+        "rotation": -0.9602293409625355,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 13.857566874718941,
+          "y": 24.2925278847315
+        },
+        "rotationStart": {
+          "x": 1836.8621705231544,
+          "y": 2434.789291221096
+        },
+        "storedAngle": -1.1524593812242707
+      },
+      {
+        "category": "informationElements",
+        "type": "arrow",
+        "center": {
+          "x": 982.1914052317734,
+          "y": 1799.7912520013106
+        },
+        "size": {
+          "w": 487.8303766522258,
+          "h": 56.02810616333704
+        },
+        "rotation": -1.5835903260355906,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -5.960603143156732,
+          "y": 41.18743422945545
+        },
+        "rotationStart": {
+          "x": 866.6426846138238,
+          "y": 1795.010237295698
+        },
+        "storedAngle": -2.5834477858826883
+      },
+      {
+        "category": "informationElements",
+        "type": "arrow",
+        "center": {
+          "x": 5109.445857649529,
+          "y": 1312.010281721261
+        },
+        "rotation": -2.5834477858826883,
+        "size": {
+          "w": 487.8303766522258,
+          "h": 56.02810616333704
+        },
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": 0.17991438436911267,
+          "y": 4.1967795822333755
+        },
+        "rotationStart": {
+          "x": 5086.540917065568,
+          "y": 1406.829687722986
+        },
+        "storedAngle": -2.154829635337912,
+        "isResizedBy": 0
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "CARRE 1",
+        "center": {
+          "x": 5537.331232698391,
+          "y": 1992.5788324187274
+        },
+        "size": {
+          "w": 518.7068481445312,
+          "h": 127.0189218278097
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -61.68221397033358,
+          "y": 3.0145442917810215
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "image",
+        "info": "procedureLegend",
+        "center": {
+          "x": 823.0539636683718,
+          "y": 6410.975375809008
+        },
+        "size": {
+          "w": 944.8328181907394,
+          "h": 438.672379874272
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -253.4745058657395,
+          "y": -61.50546631913312
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "informationElements",
+        "type": "scale",
+        "info": 127.0189218278097,
+        "center": {
+          "x": 1536.045264854945,
+          "y": 6457.24431448478
+        },
+        "size": {
+          "w": 447.78662109375,
+          "h": 330.24919675230524
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -26.601833422616664,
+          "y": -4.188376990099641
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "image",
+        "info": "logo",
+        "center": {
+          "x": 6841.133369694038,
+          "y": 6422.937261425838
+        },
+        "size": {
+          "w": 1080.2488488104354,
+          "h": 250.49248668068043
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -179.3001512940773,
+          "y": -0.6160563807234212
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "Cadastré le 29 juillet 2022",
+        "center": {
+          "x": 6851.164730282418,
+          "y": 6617.186239351821
+        },
+        "size": {
+          "w": 903.571571963845,
+          "h": 85.62366894158221
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -174.00371241423545,
+          "y": 13.705896620735984
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "informationElements",
+        "type": "image",
+        "info": "compass",
+        "center": {
+          "x": 7071.367210444089,
+          "y": 1542.9297099075359
+        },
+        "size": {
+          "w": 598.9921037419537,
+          "h": 747.8745341518035
+        },
+        "rotation": -0.1605722234522251,
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -32.716594061567775,
+          "y": -74.87536213534827
+        },
+        "isResizedBy": 0,
+        "rotationStart": {
+          "x": 571.2897733165955,
+          "y": 711.4447339670378
+        },
+        "storedAngle": 0
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "Entrée",
+        "center": {
+          "x": 5537.743175555806,
+          "y": 1141.1899503896575
+        },
+        "size": {
+          "w": 331.41668701171875,
+          "h": 127.0189218278097
+        },
+        "rotation": 0,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -32.225995382857946,
+          "y": -4.306681226351884
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "Entrée",
+        "center": {
+          "x": 984.1078769531591,
+          "y": 1444.3100350088325
+        },
+        "size": {
+          "w": 331.41668701171875,
+          "h": 127.0189218278097
+        },
+        "rotation": 0,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -61.64360147544039,
+          "y": 14.718100880417296
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "Entrée principale",
+        "center": {
+          "x": 1820.3981209295735,
+          "y": 5012.141762064589
+        },
+        "size": {
+          "w": 870.9610595703125,
+          "h": 127.0189218278097
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -138.00951682013056,
+          "y": -0.6021750015470388
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "image",
+        "info": "bin",
+        "center": {
+          "x": 2717.703814463637,
+          "y": 5422.068685670785
+        },
+        "size": {
+          "w": 143.3651662697082,
+          "h": 143.3651662697082
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -14.863522632373133,
+          "y": 0.937751243067396
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "informationElements",
+        "type": "image",
+        "info": "faucet",
+        "center": {
+          "x": 2567.5102204683835,
+          "y": 5270.629505430326
+        },
+        "size": {
+          "w": 130.5456764873377,
+          "h": 130.5456764873377
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false,
+        "isResizedBy": 0,
+        "moveDisplacement": {
+          "x": -1.7023176829934528,
+          "y": -8.453777741187878
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "CARRE 3 - Columbarium",
+        "center": {
+          "x": 3161.1361087065825,
+          "y": 6364.947954695242
+        },
+        "size": {
+          "w": 1330.070068359375,
+          "h": 127.0189218278097
+        },
+        "rotation": 0,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -207.0944677609359,
+          "y": 6.3025219765850125
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "ER : Emplacement réservé",
+        "center": {
+          "x": 1026.0710323273925,
+          "y": 5961.90752728636
+        },
+        "size": {
+          "w": 1357.7294921875,
+          "h": 127.0189218278097
+        },
+        "rotation": 0,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -497.879707638328,
+          "y": -10.999439002843246
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "EL : Emplacement libre",
+        "center": {
+          "x": 939.7459861394623,
+          "y": 5762.014685795336
+        },
+        "size": {
+          "w": 1216.7037353515625,
+          "h": 127.0189218278097
+        },
+        "rotation": 0,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": 199.31771384371268,
+          "y": -23.635338535005758
+        }
+      },
+      {
+        "category": "informationElements",
+        "type": "title",
+        "info": "CIMETIÈRE DE ROCHETAILLEE (52210)",
+        "center": {
+          "x": 5849.851785784487,
+          "y": 722.7527523461516
+        },
+        "size": {
+          "w": 3266.465141942336,
+          "h": 181.4653631004451
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -900.6392749002789,
+          "y": -23.281788372636925
+        },
+        "isResizedBy": 0
+      },
+      {
+        "category": "informationElements",
+        "type": "image",
+        "info": "tombeLegend",
+        "center": {
+          "x": -1915,
+          "y": 2855.6585406978775
+        },
+        "size": {
+          "w": 2398.117244109047,
+          "h": 685.9021778701724
+        },
+        "rotation": 0,
+        "isSelected": false,
+        "isHovered": false
+      },
+      {
+        "category": "informationElements",
+        "type": "arrow",
+        "center": {
+          "x": 3854.3406163153545,
+          "y": 5190.717109417517
+        },
+        "rotation": 0.5441365880404021,
+        "size": {
+          "w": 1409.1118761733978,
+          "h": 55.52433193296065
+        },
+        "isSelected": false,
+        "isHovered": false,
+        "moveDisplacement": {
+          "x": -192.15191608065288,
+          "y": 110.8649198191415
+        },
+        "rotationStart": {
+          "x": 3642.0040207280977,
+          "y": 5169.962155490963
+        },
+        "storedAngle": 0.7499199966115397,
+        "isResizedBy": 0
+      },
+      {
+        "category": "informationElements",
+        "type": "text",
+        "info": "CARRE 3",
+        "center": {
+          "x": 4490.220879426645,
+          "y": 4808.656346239603
+        },
+        "size": {
+          "w": 345.00695942657245,
+          "h": 84.48396655299895
+        },
+        "rotation": -1.1237210527040842,
+        "isHovered": false,
+        "isSelected": false,
+        "moveDisplacement": {
+          "x": -48.45228793365641,
+          "y": -49.638822224008436
+        },
+        "rotationStart": {
+          "x": 4750.689628265653,
+          "y": 4947.1840573525005
+        },
+        "storedAngle": -1.0905988387304737,
+        "isResizedBy": 0
+      }
+    ]
+  },
+  "origin": {
+    "x": 213.6179647271956,
+    "y": 453.7549927648779
+  }
+}
